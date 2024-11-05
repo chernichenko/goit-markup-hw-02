@@ -16,7 +16,7 @@ body {
   color: #4d5ae5;
 }
 
-.logo span {
+.logo span.logo-span {
   color: #f4f4fd;
 }
 
@@ -123,6 +123,10 @@ body {
 }
 
 .team-list {
+  background-color: #FFFFFF;
+}
+
+.team-member {
   background-color: #FFFFFF;
 }
 
