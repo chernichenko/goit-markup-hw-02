@@ -16,7 +16,7 @@ body {
   color: #4d5ae5;
 }
 
-.logo span {
+header .logo-span {
   color: #2e2f42;
 }
 
@@ -179,6 +179,6 @@ body {
   letter-spacing: 0.02em;
 }
 
-.logo-span {
+.footer .logo-span {
   color: #f4f4fd;
 }
