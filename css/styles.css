@@ -17,7 +17,7 @@ body {
 }
 
 .logo-span {
-  color: #2e2f42;
+  color: #f4f4fd;
 }
 
 /* Navigation */
@@ -90,6 +90,10 @@ body {
   background-color: #F4F4FD;
 }
 
+.service-item {
+  background-color: #FFFFFF;
+}
+
 .service-title {
   font-weight: 500;
   font-size: 20px;
@@ -105,7 +109,6 @@ body {
   color: #434455;
 }
 
-/* Team Section */
 .section-title {
   font-size: 36px;
   line-height: 1.11;
@@ -115,13 +118,57 @@ body {
   color: #2e2f42;
 }
 
+/* Team Section */
+.team-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.team-role {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
+/* Portfolio Section */
+.portfolio-item {
+  background-color: #FFFFFF;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.portfolio-title {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+
+.portfolio-category {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #434455;
+}
+
 /* Footer */
 .footer {
   background-color: #2e2f42;
+  padding: 20px;
+  text-align: center;
 }
 
 .footer-text {
   line-height: 1.5;
   color: #F4F4FD;
   letter-spacing: 0.02em;
+}
+
+.logo-span {
+  color: #f4f4fd;
 }
