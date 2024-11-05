@@ -16,7 +16,7 @@ body {
   color: #4d5ae5;
 }
 
-.logo-span {
+.logo span {
   color: #f4f4fd;
 }
 
@@ -59,7 +59,6 @@ body {
 .hero {
   background-color: #2e2f42;
   text-align: center;
-  padding: 50px 20px;
 }
 
 .hero-title {
@@ -119,6 +118,14 @@ body {
 }
 
 /* Team Section */
+.team {
+  background-color: #F4F4FD;
+}
+
+.team-list {
+  background-color: #FFFFFF;
+}
+
 .team-title {
   font-weight: 500;
   font-size: 20px;
@@ -159,7 +166,6 @@ body {
 /* Footer */
 .footer {
   background-color: #2e2f42;
-  padding: 20px;
   text-align: center;
 }
 
